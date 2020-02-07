@@ -60,7 +60,7 @@ Function's signature:
 
 # TIPS
 
-## ethereum signature reverse lookup
+## Ethereum signature reverse lookup
 
 https://www.4byte.directory/
 
