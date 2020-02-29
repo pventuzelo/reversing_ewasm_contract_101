@@ -3,6 +3,9 @@
 Workshop given at [EthCC 2020](https://ethcc.io/)
 
 
+Slides available [here](https://webassembly-security.com/reversing-ewasm-contract/)
+
+
 # Tool installation
 
 ## Install octopus locally
