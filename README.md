@@ -11,9 +11,9 @@ Slides available [here](https://webassembly-security.com/reversing-ewasm-contrac
 ## Install octopus locally
 ```
 # Security Analysis tool for WebAssembly module and Blockchain Smart Contracts
-git clone https://github.com/quoscient/octopus
+git clone https://github.com/pventuzelo/octopus
 ```
-Follow the installation guide [here](https://github.com/quoscient/octopus#quick-start)
+Follow the installation guide [here](https://github.com/pventuzelo/octopus#quick-start)
 
 ## Install radare2 & Cutter
 ```
