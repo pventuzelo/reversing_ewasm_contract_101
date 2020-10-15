@@ -3,7 +3,7 @@
 Workshop given at [EthCC 2020](https://ethcc.io/)
 
 
-Slides available [here](https://webassembly-security.com/reversing-ewasm-contract/)
+Slides available [here](https://academy.fuzzinglabs.com/slides-reversing-ethereum-webassembly-contract-101)
 
 
 # Tool installation
@@ -93,8 +93,6 @@ wat2wasm contract.wast -o contract.wasm
 
 # Trainings & Contact
 
-Patrick Ventuzelo - [@pat_ventuzelo](https://twitter.com/pat_ventuzelo) - Independent Security Researcher / Trainer.
-
-Consulting & trainings:
-* 4-days **WebAssembly security** training: [here](https://fuzzinglabs.com/trainings/)
-* 2-days **Rust security** training: [here](https://fuzzinglabs.com/rust-security-training/)
+Patrick Ventuzelo - [@pat_ventuzelo](https://twitter.com/pat_ventuzelo)
+* Independent Security Researcher / Trainer.
+* FREE online courses: [here](https://academy.fuzzinglabs.com/)
